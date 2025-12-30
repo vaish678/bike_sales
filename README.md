@@ -54,11 +54,23 @@ The analysis focuses on **brand-wise sales, state-wise sales, and year-wise tren
 
 ---
 
-## 💡 Key Insights
-- Royal Enfield shows a steady upward trend in sales over the years.
-- Some states are stronger markets for specific brands.
-- Heatmaps help to **identify regional sales patterns** for multiple brands.
-- Line and scatter plots effectively show **year-wise trends**.
+**💡 Key Insights**
+
+Royal Enfield shows a steady upward trend in sales over the years.
+
+KTM, Kawasaki, Yamaha, and Royal Enfield have steady yearly sales, indicating consistent demand.
+
+State-wise highlights:
+
+Maharashtra → Bajaj sales are the highest.
+
+Rajasthan → TVS sales are the highest.
+
+Punjab → Royal Enfield sales dominate.
+
+Heatmaps help to identify regional sales patterns for multiple brands.
+
+Line and scatter plots effectively show year-wise trends.
 
 ---
 
